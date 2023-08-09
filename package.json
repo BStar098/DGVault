@@ -26,6 +26,6 @@
   ],
   "types": "dist/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/BStar098"
+    "registry": "https://npm.pkg.github.com/bstar098"
   }
 }

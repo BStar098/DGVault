@@ -1,7 +1,8 @@
 {
   "name": "@bstar098/dgvault",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "DGMX Components library",
+  "private":"false",
   "scripts": {
     "rollup": "rollup -c"
   },

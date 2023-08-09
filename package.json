@@ -1,6 +1,6 @@
 {
-  "name": "@bstar098/dgvault",
-  "version": "0.0.5",
+  "name": "@BStar098/dgvault",
+  "version": "0.0.1",
   "description": "DGMX Components library",
   "private":false,
   "scripts": {

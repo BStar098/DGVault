@@ -1,7 +1,7 @@
 {
-  "name": "dgmx-component-library",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@BStar098/DGVault",
+  "version": "0.0.1",
+  "description": "DGMX Components library",
   "scripts": {
     "rollup": "rollup -c"
   },
@@ -24,5 +24,8 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/BStar098"
+  }
 }
